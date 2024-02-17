@@ -33,3 +33,7 @@ Python3, PyGame, TKinter, OpenAI
 **Challenges We Ran Into:**
 
 We encountered several challenges during the project, including the initial decision between using pygame or kivy. After careful analysis, we opted for pygame but faced limitations in the available features of pygame. Additionally, sprite movement animation proved challenging due to pygame's lack of inherent support for screen refresh. Dealing with OpenAI API integration presented difficulties in obtaining the required answers. Despite these challenges, we persevered and overcame each obstacle, ensuring a successful project.
+
+**YouTube Links**
+https://youtu.be/nQPdbhKoWvo
+https://youtu.be/K1aEUlL_xy8
